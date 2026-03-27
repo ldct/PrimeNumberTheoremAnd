@@ -1,0 +1,25 @@
+PrimeNumberTheoremAnd/LiSeries.lean
+  7e64cc716c0bc9ca 447-857,865-868
+PrimeNumberTheoremAnd/SecondaryDefinitions.lean
+  7e64cc716c0bc9ca 7,214-218,220-222,224-230
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.20",
+  "base_commit_sha": "9c6446dcc162b89777b4acae20b9c9dcfcc31124",
+  "prompts": {
+    "7e64cc716c0bc9ca": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dbf586b8-9764-4139-a719-a3de077b5c3e",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Xuanji Li <xuanji@gmail.com>",
+      "messages": [],
+      "total_additions": 960,
+      "total_deletions": 531,
+      "accepted_lines": 431,
+      "overriden_lines": 0
+    }
+  }
+}
