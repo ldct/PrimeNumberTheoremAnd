@@ -1,0 +1,65 @@
+PrimeNumberTheoremAnd/LiSeries.lean
+  2f0e5aa2cd411431 367,387-388
+  050660535872f3d7 1-167,169,171,365-366,375-386,389-457
+PrimeNumberTheoremAnd/fubini_log_exp_neg.lean
+  648ec7d3c7eca816 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.20",
+  "base_commit_sha": "36a25ca567704b7f0075245a9eefa068eb35160b",
+  "prompts": {
+    "050660535872f3d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "75232fda-e18e-495b-8a3e-74a92045842f",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Xuanji Li <xuanji@gmail.com>",
+      "messages": [],
+      "total_additions": 481,
+      "total_deletions": 211,
+      "accepted_lines": 252,
+      "overriden_lines": 2
+    },
+    "2f0e5aa2cd411431": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "00e5ca70-032b-4e1e-91f5-180d7eeb2ae3",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Xuanji Li <xuanji@gmail.com>",
+      "messages": [],
+      "total_additions": 45,
+      "total_deletions": 44,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    },
+    "648ec7d3c7eca816": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ab26e0fa-7b0b-4b13-bbba-0b319e06f730",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Xuanji Li <xuanji@gmail.com>",
+      "messages": [],
+      "total_additions": 407,
+      "total_deletions": 204,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    },
+    "a76d2855f14db809": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "715848f6-1362-416e-bfa0-3c7eb13cfc67",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Xuanji Li <xuanji@gmail.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 2,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}
